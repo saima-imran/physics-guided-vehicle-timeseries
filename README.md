@@ -16,5 +16,6 @@ The project is under development. The first stage will generate a small syntheti
 
 ## Scope
 
-This is an educational research prototype. It is not a production automotive system or a foundation model.# physics-guided-vehicle-timeseries
+This is an educational research prototype. It is not a production automotive system or a foundation model. 
+# physics-guided-vehicle-timeseries
 A small learning experiment comparing data-driven and physics-guided vehicle speed forecasting under sensor noise.
